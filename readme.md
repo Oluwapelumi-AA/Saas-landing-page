@@ -1,4 +1,4 @@
-A SaaS Landing Page
+# SaaS Landing Page
 
 This project does not use any frameworks or libraries. It is built with pure HTML and CSS and a bit of JavaScript for the hamburger menu and the FAQ accordion.
 

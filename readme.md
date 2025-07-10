@@ -1,6 +1,4 @@
-# SaaS Company Landing Page
-
-This is part of my [YouTube HTML/CSS tutorial](https://www.youtube.com/watch?v=HXYZxVbWkjc) on building a professional website for beginners.
+A SaaS Landing Page
 
 This project does not use any frameworks or libraries. It is built with pure HTML and CSS and a bit of JavaScript for the hamburger menu and the FAQ accordion.
 
